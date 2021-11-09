@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 16 21:51:21 2021
-
-@author: jonas
-"""
 import re
 import os
 
